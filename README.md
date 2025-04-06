@@ -1,6 +1,8 @@
 # CPPProfiler
 Lightweight C++ function and scope profiler that outputs profiling data in JSON format which can be viewed using chrome://tracing. Ideal for measuring performance hotspots in multi-threaded applications.
 
+Following the tutorial VISUAL BENCHMARKING in C++ (how to measure performance visually)  https://www.youtube.com/watch?v=xlAH4dbMVnU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=81
+
 # 🔍 PerProfiler - Lightweight C++ Function and Scope Profiler
 
 A minimal and easy-to-integrate C++ function/scope profiler for measuring performance metrics like function duration and execution time across threads. Profiling data is written to a JSON file for visualization or further analysis.
